@@ -2,7 +2,7 @@
 
 ### FullStack Developer | Database Architect | Systems Engineer
 
-I build high-performance applications with optimized data layers and scalable architectures. My expertise spans across multiple programming paradigms and database technologies.
+I build things.
 
 ## 🛠️ Core Competencies
 
