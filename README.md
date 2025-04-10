@@ -1,8 +1,8 @@
 # Hi there, I'm Zeth 👋
 
-### FullStack Developer | Tech Enthusiast | Problem Solver
+### FullStack Developer | Database Expert | Tech Enthusiast
 
-I'm a passionate FullStack Developer with expertise in multiple programming languages and frameworks. I love building robust, scalable, and user-friendly applications that solve real-world problems.
+I'm a passionate FullStack Developer with expertise in multiple programming languages, frameworks, and database technologies. I specialize in building robust, scalable, and data-driven applications.
 
 ## 🛠️ Technologies & Skills
 
@@ -22,13 +22,36 @@ I'm a passionate FullStack Developer with expertise in multiple programming lang
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### Databases
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+### Databases & Data Technologies
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Oracle DB](https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Cassandra](https://img.shields.io/badge/-Cassandra-1287B1?style=flat-square&logo=apache-cassandra&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Neo4j](https://img.shields.io/badge/-Neo4j-008CC1?style=flat-square&logo=neo4j&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/-DynamoDB-4053D6?style=flat-square&logo=amazon-dynamodb&logoColor=white)
 
 ## 🔥 My Stats
 
-[![Zeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Zeth's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_title=true)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)](https://github.com/yourusername)
+
+## 📊 Database Expertise
+I have extensive experience with:
+- Relational databases (SQL, MySQL, PostgreSQL)
+- NoSQL solutions (MongoDB, Cassandra)
+- In-memory databases (Redis)
+- Graph databases (Neo4j)
+- Cloud database services (Firebase, DynamoDB)
+- Database optimization and indexing
+- Complex query design
+- ORM frameworks
+- Database security best practices
 
 ## 📫 How to reach me
 
@@ -37,13 +60,12 @@ I'm a passionate FullStack Developer with expertise in multiple programming lang
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
 ## 💻 Currently Working On
-
-- Building awesome fullstack applications
-- Learning new technologies and frameworks
-- Contributing to open source projects
+- Building high-performance database architectures
+- Developing fullstack applications with optimized data layers
+- Exploring cutting-edge database technologies
+- Contributing to open-source database projects
 
 ## ⚡ Fun Fact
+I can optimize your SQL queries while solving a Rubik's cube blindfolded!
 
-When I'm not coding, I love [your hobby/interests]!
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
+![Visitor Count](https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blueviolet)
