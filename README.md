@@ -1,6 +1,6 @@
 # Hi there, I'm Zeth 👋
 
-### FullStack Developer | Database Architect | Systems Engineer
+### FullStack Developer | Systems Engineer
 
 I build things.
 
